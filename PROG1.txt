@@ -1,0 +1,10 @@
+perro https://dle.rae.es/perro
+gato https://dle.rae.es/gato?m=form
+ciervo https://dle.rae.es/ciervo?m=form
+águila https://dle.rae.es/%C3%A1guila?m=form
+caballo https://dle.rae.es/caballo?m=form
+mapache https://dle.rae.es/mapache?m=form
+rata https://dle.rae.es/rata?m=form
+oso https://dle.rae.es/oso?m=form
+gallo https://dle.rae.es/gallo
+lagarto https://dle.rae.es/lagarto?m=form
